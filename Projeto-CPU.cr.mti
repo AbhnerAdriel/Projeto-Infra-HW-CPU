@@ -1,0 +1,189 @@
+C:/Projeto-Infra-HW-CPU/CPU.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/CPU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} C:/Projeto-Infra-HW-CPU/ShiftLeft16.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/ShiftLeft16.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ShiftLeft16
+
+Top level modules:
+	ShiftLeft16
+
+} {} {}} C:/Projeto-Infra-HW-CPU/Instr_Reg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Projeto-Infra-HW-CPU/Instr_Reg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Instr_Reg
+-- Compiling architecture behavioral_arch of Instr_Reg
+
+} {} {}} C:/Projeto-Infra-HW-CPU/Mux3to1.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/Mux3to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux3to1
+
+Top level modules:
+	Mux3to1
+
+} {} {}} C:/Projeto-Infra-HW-CPU/mult.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/mult.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mult
+
+Top level modules:
+	mult
+
+} {} {}} C:/Projeto-Infra-HW-CPU/SignExtend1to32.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/SignExtend1to32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SignExtend1to32
+
+Top level modules:
+	SignExtend1to32
+
+} {} {}} C:/Projeto-Infra-HW-CPU/div.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/div.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Div
+
+Top level modules:
+	Div
+
+} {} {}} C:/Projeto-Infra-HW-CPU/Mux5to1.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/Mux5to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux5to1
+
+Top level modules:
+	Mux5to1
+
+} {} {}} C:/Projeto-Infra-HW-CPU/ula32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Projeto-Infra-HW-CPU/ula32.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity Ula32
+-- Compiling architecture behavioral of Ula32
+
+} {} {}} C:/Projeto-Infra-HW-CPU/LoadSize.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/LoadSize.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module LoadSize
+
+Top level modules:
+	LoadSize
+
+} {} {}} C:/Projeto-Infra-HW-CPU/Banco_reg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Projeto-Infra-HW-CPU/Banco_reg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_reg
+-- Compiling architecture behavioral_arch of Banco_reg
+
+} {} {}} C:/Projeto-Infra-HW-CPU/RegDesloc.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Projeto-Infra-HW-CPU/RegDesloc.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity RegDesloc
+-- Compiling architecture behavioral_arch of RegDesloc
+
+} {} {}} C:/Projeto-Infra-HW-CPU/teste.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/teste.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module teste
+
+Top level modules:
+	teste
+
+} {} {}} C:/Projeto-Infra-HW-CPU/ShiftLeft26to28.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/ShiftLeft26to28.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ShiftLeft26to28
+
+Top level modules:
+	ShiftLeft26to28
+
+} {} {}} C:/Projeto-Infra-HW-CPU/Memoria.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Projeto-Infra-HW-CPU/Memoria.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling package ram_constants
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package LPM_COMPONENTS
+-- Loading package ram_constants
+-- Compiling entity Memoria
+-- Compiling architecture behavioral_arch of Memoria
+
+} {} {}} C:/Projeto-Infra-HW-CPU/uControl.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/uControl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module uControl
+
+Top level modules:
+	uControl
+
+} {} {}} C:/Projeto-Infra-HW-CPU/Mux9to1.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/Mux9to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux9to1
+
+Top level modules:
+	Mux9to1
+
+} {} {}} C:/Projeto-Infra-HW-CPU/Mux2to1.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/Mux2to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux2to1
+
+Top level modules:
+	Mux2to1
+
+} {} {}} C:/Projeto-Infra-HW-CPU/SignExtend16to32.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/SignExtend16to32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SignExtend16to32
+
+Top level modules:
+	SignExtend16to32
+
+} {} {}} C:/Projeto-Infra-HW-CPU/StoreSize.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/StoreSize.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module StoreSize
+
+Top level modules:
+	StoreSize
+
+} {} {}} C:/Projeto-Infra-HW-CPU/mux4to1.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/mux4to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux4to1
+
+Top level modules:
+	mux4to1
+
+} {} {}} C:/Projeto-Infra-HW-CPU/Registrador.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Projeto-Infra-HW-CPU/Registrador.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Registrador
+-- Compiling architecture behavioral_arch of Registrador
+
+} {} {}} C:/Projeto-Infra-HW-CPU/ShiftLeft2.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/ShiftLeft2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} C:/Projeto-Infra-HW-CPU/DIVMULT.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/DIVMULT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DIVMULT
+
+Top level modules:
+	DIVMULT
+
+} {} {}} C:/Projeto-Infra-HW-CPU/Main.v {1 {vlog -work work -stats=none C:/Projeto-Infra-HW-CPU/Main.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Main
+
+Top level modules:
+	Main
+
+} {} {}}

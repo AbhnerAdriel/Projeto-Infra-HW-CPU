@@ -1,0 +1,690 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/abhne/Downloads/Infra-HW/Projeto-IHW
+Ebanco_reg
+Z0 w1778926050
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Projeto-Infra-HW-CPU
+Z4 8C:/Projeto-Infra-HW-CPU/Banco_reg.vhd
+Z5 FC:/Projeto-Infra-HW-CPU/Banco_reg.vhd
+l0
+L53
+V=dGkdO=J^HI2d?cULSzXd3
+!s100 h5`:HK2<JNo>eVVLEWM;92
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1779027166
+!i10b 1
+Z8 !s108 1779027166.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Projeto-Infra-HW-CPU/Banco_reg.vhd|
+Z10 !s107 C:/Projeto-Infra-HW-CPU/Banco_reg.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral_arch
+R1
+R2
+DEx4 work 9 banco_reg 0 22 =dGkdO=J^HI2d?cULSzXd3
+l103
+L69
+V?Wl8QS<b46gg[e``LD7kY2
+!s100 TD6H86L5Od[BAzX310e8k1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vCPU
+R7
+!i10b 1
+!s100 Sj1Ul[A=U@;XQ96h=a:<b1
+ISA2Z@ZCS]gzCF@6N^h9G^1
+Z13 VDg1SIo80bB@j0V0VzS_@n1
+R3
+w1778950740
+8C:/Projeto-Infra-HW-CPU/CPU.v
+FC:/Projeto-Infra-HW-CPU/CPU.v
+L0 1
+Z14 OV;L;10.5b;63
+r1
+!s85 0
+31
+R8
+!s107 C:/Projeto-Infra-HW-CPU/CPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/CPU.v|
+!i113 1
+Z15 o-work work
+Z16 tCvgOpt 0
+n@c@p@u
+vDiv
+R7
+!i10b 1
+!s100 d<STbVXF[;j0SVM7jiShQ0
+I73L@KKWjVhA<UL83?A8[V3
+R13
+R3
+w1778926319
+8C:/Projeto-Infra-HW-CPU/div.v
+FC:/Projeto-Infra-HW-CPU/div.v
+L0 1
+R14
+r1
+!s85 0
+31
+R8
+!s107 C:/Projeto-Infra-HW-CPU/div.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/div.v|
+!i113 1
+R15
+R16
+n@div
+vDIVMULT
+R7
+!i10b 1
+!s100 IiFnVNVdW00]gE=XVa;VW1
+I6[Oc6e?;?:8Q_g[DcSmfH1
+R13
+R3
+Z17 w1778922377
+8C:/Projeto-Infra-HW-CPU/DIVMULT.v
+FC:/Projeto-Infra-HW-CPU/DIVMULT.v
+L0 1
+R14
+r1
+!s85 0
+31
+R8
+!s107 C:/Projeto-Infra-HW-CPU/DIVMULT.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/DIVMULT.v|
+!i113 1
+R15
+R16
+n@d@i@v@m@u@l@t
+Einstr_reg
+R17
+R1
+R2
+R3
+Z18 8C:/Projeto-Infra-HW-CPU/Instr_Reg.vhd
+Z19 FC:/Projeto-Infra-HW-CPU/Instr_Reg.vhd
+l0
+L42
+VAfV1kYS402dnLRiFO;Z7_2
+!s100 _X]FAEHlMn?]L[?c6kUO?1
+R6
+32
+R7
+!i10b 1
+R8
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Projeto-Infra-HW-CPU/Instr_Reg.vhd|
+Z21 !s107 C:/Projeto-Infra-HW-CPU/Instr_Reg.vhd|
+!i113 1
+R11
+R12
+Abehavioral_arch
+R1
+R2
+DEx4 work 9 instr_reg 0 22 AfV1kYS402dnLRiFO;Z7_2
+l59
+L56
+VTD836jU:>9m^d?0ed1C0O3
+!s100 _AcjR?n;fJneQZzaIjJFa3
+R6
+32
+R7
+!i10b 1
+R8
+R20
+R21
+!i113 1
+R11
+R12
+vLoadSize
+R7
+!i10b 1
+!s100 ?M6`N6Z_KjalzKlRNIKgi0
+Im?9@J1>D1Bc;758<ncMJ:3
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/LoadSize.v
+FC:/Projeto-Infra-HW-CPU/LoadSize.v
+L0 1
+R14
+r1
+!s85 0
+31
+R8
+!s107 C:/Projeto-Infra-HW-CPU/LoadSize.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/LoadSize.v|
+!i113 1
+R15
+R16
+n@load@size
+vMain
+R7
+!i10b 1
+!s100 MOBV3[245hn2m0_f5P8lL3
+IUD]9?]@g5]KZ4PX=QlKLc2
+R13
+R3
+w1778926037
+8C:/Projeto-Infra-HW-CPU/Main.v
+FC:/Projeto-Infra-HW-CPU/Main.v
+L0 1
+R14
+r1
+!s85 0
+31
+R8
+!s107 C:/Projeto-Infra-HW-CPU/Main.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/Main.v|
+!i113 1
+R15
+R16
+n@main
+Ememoria
+Z22 w1778950913
+Z23 DPx4 work 13 ram_constants 0 22 9E_^Xo3g_hfNmM>b:TR2>2
+Z24 DPx3 lpm 14 lpm_components 0 22 BZZBj]8LhndN7CkCjD@L`2
+Z25 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R1
+R2
+R3
+Z26 8C:/Projeto-Infra-HW-CPU/Memoria.vhd
+Z27 FC:/Projeto-Infra-HW-CPU/Memoria.vhd
+l0
+L57
+Vii8E<8:eQLh4L]Tc>R12:0
+!s100 @?c3^cRfjIl0odBdm@P?D3
+R6
+32
+R7
+!i10b 1
+R8
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Projeto-Infra-HW-CPU/Memoria.vhd|
+Z29 !s107 C:/Projeto-Infra-HW-CPU/Memoria.vhd|
+!i113 1
+R11
+R12
+Abehavioral_arch
+R23
+R24
+R25
+R1
+R2
+DEx4 work 7 memoria 0 22 ii8E<8:eQLh4L]Tc>R12:0
+l106
+L69
+VANOd`b@ohb?]ZhC4XMA023
+!s100 9G@oCZzeE1^BF3YHe3Ok<1
+R6
+32
+R7
+!i10b 1
+R8
+R28
+R29
+!i113 1
+R11
+R12
+vmult
+R7
+!i10b 1
+!s100 i6QU?MV``kO9K1UV49?4h3
+IeEfB[b`LfmljC?6P5h1nZ1
+R13
+R3
+w1778926240
+8C:/Projeto-Infra-HW-CPU/mult.v
+FC:/Projeto-Infra-HW-CPU/mult.v
+L0 1
+R14
+r1
+!s85 0
+31
+R8
+!s107 C:/Projeto-Infra-HW-CPU/mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/mult.v|
+!i113 1
+R15
+R16
+vMux2to1
+R7
+!i10b 1
+!s100 ?<M19e]M^aWJ]=G[6:MLD3
+I594N;U]4AVckg_WYj]8In2
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/Mux2to1.v
+FC:/Projeto-Infra-HW-CPU/Mux2to1.v
+L0 1
+R14
+r1
+!s85 0
+31
+R8
+!s107 C:/Projeto-Infra-HW-CPU/Mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/Mux2to1.v|
+!i113 1
+R15
+R16
+n@mux2to1
+vMux3to1
+R7
+!i10b 1
+!s100 n<F`?6;2`IJcF:;SnZ9oR2
+I2>4mddD8V84]dY:<h<_JP3
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/Mux3to1.v
+FC:/Projeto-Infra-HW-CPU/Mux3to1.v
+L0 1
+R14
+r1
+!s85 0
+31
+R8
+!s107 C:/Projeto-Infra-HW-CPU/Mux3to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/Mux3to1.v|
+!i113 1
+R15
+R16
+n@mux3to1
+vmux4to1
+R7
+!i10b 1
+!s100 cH83D855XYeD2DXATVMhF1
+IP3L_aaR4iH`UA<7V<@=Zg1
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/mux4to1.v
+FC:/Projeto-Infra-HW-CPU/mux4to1.v
+L0 1
+R14
+r1
+!s85 0
+31
+R8
+!s107 C:/Projeto-Infra-HW-CPU/mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/mux4to1.v|
+!i113 1
+R15
+R16
+vMux5to1
+R7
+!i10b 1
+!s100 oJK?G2;?jfoYRgiOKA9Ab2
+IT[h0zeF^Z]6Log3nZYECW1
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/Mux5to1.v
+FC:/Projeto-Infra-HW-CPU/Mux5to1.v
+L0 1
+R14
+r1
+!s85 0
+31
+R8
+!s107 C:/Projeto-Infra-HW-CPU/Mux5to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/Mux5to1.v|
+!i113 1
+R15
+R16
+n@mux5to1
+vMux9to1
+Z30 !s110 1779027167
+!i10b 1
+!s100 `WhQcDR=^`miEJQ9LHBlS0
+IVB85;>LNkW;glkD8UZXeJ0
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/Mux9to1.v
+FC:/Projeto-Infra-HW-CPU/Mux9to1.v
+L0 1
+R14
+r1
+!s85 0
+31
+Z31 !s108 1779027167.000000
+!s107 C:/Projeto-Infra-HW-CPU/Mux9to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/Mux9to1.v|
+!i113 1
+R15
+R16
+n@mux9to1
+Pram_constants
+R22
+R3
+R26
+R27
+l0
+L38
+V9E_^Xo3g_hfNmM>b:TR2>2
+!s100 1z7W]MDNjf0Z9^@fSRHG13
+R6
+32
+R7
+!i10b 1
+R8
+R28
+R29
+!i113 1
+R11
+R12
+Eregdesloc
+Z32 w1778922898
+Z33 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R25
+R1
+R2
+R3
+Z34 8C:/Projeto-Infra-HW-CPU/RegDesloc.vhd
+Z35 FC:/Projeto-Infra-HW-CPU/RegDesloc.vhd
+l0
+L70
+VIQH0oJ^S8XVMDFMM:Xe`<1
+!s100 NCh3^eb1I5oNn;ba[lNoZ3
+R6
+32
+R30
+!i10b 1
+R31
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Projeto-Infra-HW-CPU/RegDesloc.vhd|
+Z37 !s107 C:/Projeto-Infra-HW-CPU/RegDesloc.vhd|
+!i113 1
+R11
+R12
+Abehavioral_arch
+R33
+R25
+R1
+R2
+DEx4 work 9 regdesloc 0 22 IQH0oJ^S8XVMDFMM:Xe`<1
+l87
+L83
+Vk]BaRUW?=Jl7kelWl3JY@2
+!s100 hUUTJLQj8LUW2flYDUzS00
+R6
+32
+R30
+!i10b 1
+R31
+R36
+R37
+!i113 1
+R11
+R12
+Eregistrador
+R17
+R1
+R2
+R3
+Z38 8C:/Projeto-Infra-HW-CPU/Registrador.vhd
+Z39 FC:/Projeto-Infra-HW-CPU/Registrador.vhd
+l0
+L53
+VD=`aG^VOPEDP69ifb8G;52
+!s100 ^e8=Z<CbNTLXR@XGZJMQo3
+R6
+32
+R30
+!i10b 1
+R31
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Projeto-Infra-HW-CPU/Registrador.vhd|
+Z41 !s107 C:/Projeto-Infra-HW-CPU/Registrador.vhd|
+!i113 1
+R11
+R12
+Abehavioral_arch
+R1
+R2
+DEx4 work 11 registrador 0 22 D=`aG^VOPEDP69ifb8G;52
+l66
+L65
+V<kVfXRZJUh40ja<<lN_3:3
+!s100 EXKKzlBL1ARAk5TCN4`Vg2
+R6
+32
+R30
+!i10b 1
+R31
+R40
+R41
+!i113 1
+R11
+R12
+vShiftLeft16
+R30
+!i10b 1
+!s100 6iM]X]>Km>8>Y_z[Yn>J=0
+ICj7e6cHE6z]nJ<5KG[0PZ0
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/ShiftLeft16.v
+FC:/Projeto-Infra-HW-CPU/ShiftLeft16.v
+L0 1
+R14
+r1
+!s85 0
+31
+R31
+!s107 C:/Projeto-Infra-HW-CPU/ShiftLeft16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/ShiftLeft16.v|
+!i113 1
+R15
+R16
+n@shift@left16
+vShiftLeft2
+R30
+!i10b 1
+!s100 13R0Q[F53FbgLfPLSi][T2
+I68YKFd`eKz1]<ETlKNaaf2
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/ShiftLeft2.v
+FC:/Projeto-Infra-HW-CPU/ShiftLeft2.v
+L0 1
+R14
+r1
+!s85 0
+31
+R31
+!s107 C:/Projeto-Infra-HW-CPU/ShiftLeft2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/ShiftLeft2.v|
+!i113 1
+R15
+R16
+n@shift@left2
+vShiftLeft26to28
+R30
+!i10b 1
+!s100 5MJ`4SG3;hTJ6;>7mn;A^3
+IBfBDNLeRif>KnUa8C3=7A2
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/ShiftLeft26to28.v
+FC:/Projeto-Infra-HW-CPU/ShiftLeft26to28.v
+L0 1
+R14
+r1
+!s85 0
+31
+R31
+!s107 C:/Projeto-Infra-HW-CPU/ShiftLeft26to28.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/ShiftLeft26to28.v|
+!i113 1
+R15
+R16
+n@shift@left26to28
+vSignExtend16to32
+R30
+!i10b 1
+!s100 G3c5RPYUcKid2TP=YV:TB0
+IOcnN5S`GjY9CVQ1j@_2IB1
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/SignExtend16to32.v
+FC:/Projeto-Infra-HW-CPU/SignExtend16to32.v
+L0 1
+R14
+r1
+!s85 0
+31
+R31
+!s107 C:/Projeto-Infra-HW-CPU/SignExtend16to32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/SignExtend16to32.v|
+!i113 1
+R15
+R16
+n@sign@extend16to32
+vSignExtend1to32
+R30
+!i10b 1
+!s100 M30jzJB5=Vie?ZWLFHhHV1
+I?MnW]D9hc>_iJFF;BM5NN0
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/SignExtend1to32.v
+FC:/Projeto-Infra-HW-CPU/SignExtend1to32.v
+L0 1
+R14
+r1
+!s85 0
+31
+R31
+!s107 C:/Projeto-Infra-HW-CPU/SignExtend1to32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/SignExtend1to32.v|
+!i113 1
+R15
+R16
+n@sign@extend1to32
+vStoreSize
+R30
+!i10b 1
+!s100 e6fSc2W94;;PDQb8?o8hO3
+I@B3MQeKl]RN]Z_^[NmBG23
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/StoreSize.v
+FC:/Projeto-Infra-HW-CPU/StoreSize.v
+L0 1
+R14
+r1
+!s85 0
+31
+R31
+!s107 C:/Projeto-Infra-HW-CPU/StoreSize.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/StoreSize.v|
+!i113 1
+R15
+R16
+n@store@size
+vteste
+R30
+!i10b 1
+!s100 AU83Nzfm;Cj6cKVbDc>Hg3
+IUk:`4j=cW015e:2>DeZ7X3
+R13
+R3
+R17
+8C:/Projeto-Infra-HW-CPU/teste.v
+FC:/Projeto-Infra-HW-CPU/teste.v
+L0 1
+R14
+r1
+!s85 0
+31
+R31
+!s107 C:/Projeto-Infra-HW-CPU/teste.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/teste.v|
+!i113 1
+R15
+R16
+vuControl
+R30
+!i10b 1
+!s100 6okO0n;Tg7R?C41ZcGPQC1
+I]PK]W2z[PaojaLccR7=Se0
+R13
+R3
+w1778950735
+8C:/Projeto-Infra-HW-CPU/uControl.v
+FC:/Projeto-Infra-HW-CPU/uControl.v
+L0 1
+R14
+r1
+!s85 0
+31
+R31
+!s107 C:/Projeto-Infra-HW-CPU/uControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Projeto-Infra-HW-CPU/uControl.v|
+!i113 1
+R15
+R16
+nu@control
+Eula32
+R17
+R25
+R1
+R2
+R3
+Z42 8C:/Projeto-Infra-HW-CPU/ula32.vhd
+Z43 FC:/Projeto-Infra-HW-CPU/ula32.vhd
+l0
+L54
+V0Vf9g?XiHAzJSHVHY_=Ek2
+!s100 bIXK3AY9QWAPD0h:ahSWS1
+R6
+32
+Z44 !s110 1779027165
+!i10b 1
+Z45 !s108 1779027165.000000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Projeto-Infra-HW-CPU/ula32.vhd|
+Z47 !s107 C:/Projeto-Infra-HW-CPU/ula32.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R25
+R1
+R2
+DEx4 work 5 ula32 0 22 0Vf9g?XiHAzJSHVHY_=Ek2
+l80
+L70
+V=6aJ`W>XDWf:2d4W9Cn_;3
+!s100 ffUIR8Ch2BWeXO`]0hJRn3
+R6
+32
+R44
+!i10b 1
+R45
+R46
+R47
+!i113 1
+R11
+R12

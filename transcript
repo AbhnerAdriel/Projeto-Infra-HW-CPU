@@ -1,0 +1,38 @@
+# vsim -c -do "quit -f" work.Main 
+# Start time: 14:02:37 on May 16,2026
+# Loading work.Main
+# Loading work.CPU
+# Loading work.mux4to1
+# Loading work.Mux3to1
+# Loading work.Mux5to1
+# Loading work.ShiftLeft26to28
+# Loading work.ShiftLeft2
+# Loading work.StoreSize
+# Loading work.LoadSize
+# Loading work.DIVMULT
+# Loading work.mult
+# Loading work.Div
+# Loading work.SignExtend1to32
+# Loading work.SignExtend16to32
+# Loading work.ShiftLeft16
+# Loading work.Mux2to1
+# Loading work.uControl
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.registrador(behavioral_arch)
+# Loading ieee.std_logic_arith(body)
+# Loading lpm.lpm_components
+# Loading work.ram_constants
+# Loading work.memoria(behavioral_arch)
+# Loading ieee.std_logic_unsigned(body)
+# Loading lpm.lpm_common_conversion(body)
+# Loading lpm.lpm_device_families(body)
+# Loading lpm.lpm_ram_dq(lpm_syn)
+# Loading work.instr_reg(behavioral_arch)
+# Loading work.banco_reg(behavioral_arch)
+# Loading work.ula32(behavioral)
+# Loading work.regdesloc(behavioral_arch)
+# quit -f
+# End time: 14:02:37 on May 16,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

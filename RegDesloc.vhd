@@ -196,6 +196,8 @@ ARCHITECTURE behavioral_arch OF RegDesloc IS
 								temp(30 downto 0) <= "0000000000000000000000000000000";
 								temp(31) <= temp(0);
 							
+							when others =>
+								temp <= temp;
 							end case;
 
 					-- Deslocamento à direita lógico N vezes
@@ -296,6 +298,8 @@ ARCHITECTURE behavioral_arch OF RegDesloc IS
 							when "11111" =>				-- Deslocamento à direita lógico 31 vezes
 								temp(0) <= temp(31);
 								temp(31 downto 1) <= "0000000000000000000000000000000";
+						when others =>
+							temp <= temp;
 						end case;
 
 					-- Deslocamento à direita aritmético N vezes
@@ -862,6 +866,8 @@ ARCHITECTURE behavioral_arch OF RegDesloc IS
 								temp(29) <= temp(31);
 								temp(30) <= temp(31);
 								temp(31) <= temp(31);
+						when others =>
+							temp <= temp;
 						end case;
 
 					-- Rotação à direita N vezes
@@ -962,6 +968,8 @@ ARCHITECTURE behavioral_arch OF RegDesloc IS
 							when "11111" =>				-- Rotação à direita 31 vezes
 								temp(0) <= temp(31);
 								temp(31 downto 1) <= temp(30 downto 0);
+						when others =>
+							temp <= temp;
 						end case;
 
 					-- Rotação à esquerda N vezes
@@ -1062,6 +1070,8 @@ ARCHITECTURE behavioral_arch OF RegDesloc IS
 							when "11111" =>				-- Rotação à esquerda 31 vezes
 								temp(30 downto 0) <= temp(31 downto 1);
 								temp(31) <= temp(0);
+						when others =>
+							temp <= temp;
 						end case;
 
 					-- Funcionalidade não definida
